@@ -8,6 +8,11 @@ React Tutorial Application in that:
 - There is a Search bar for finding Tutorials by title.
 
 
+### Run
+```
+npm start
+```
+
 # Node.js Express & MongoDB: CRUD Rest APIs
 ### Run
 ```
